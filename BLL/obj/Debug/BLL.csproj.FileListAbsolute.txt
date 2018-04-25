@@ -1,0 +1,11 @@
+G:\VisualStudio\yinyangshiWinform\BLL\bin\Debug\BLL.dll
+G:\VisualStudio\yinyangshiWinform\BLL\bin\Debug\BLL.pdb
+G:\VisualStudio\yinyangshiWinform\BLL\bin\Debug\DAL.dll
+G:\VisualStudio\yinyangshiWinform\BLL\bin\Debug\model.dll
+G:\VisualStudio\yinyangshiWinform\BLL\bin\Debug\DAL.pdb
+G:\VisualStudio\yinyangshiWinform\BLL\bin\Debug\model.pdb
+G:\VisualStudio\yinyangshiWinform\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+G:\VisualStudio\yinyangshiWinform\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+G:\VisualStudio\yinyangshiWinform\BLL\obj\Debug\BLL.csproj.CopyComplete
+G:\VisualStudio\yinyangshiWinform\BLL\obj\Debug\BLL.dll
+G:\VisualStudio\yinyangshiWinform\BLL\obj\Debug\BLL.pdb

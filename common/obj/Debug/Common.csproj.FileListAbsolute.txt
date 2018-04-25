@@ -1,0 +1,6 @@
+G:\VisualStudio\yinyangshiWinform\common\bin\Debug\common.dll
+G:\VisualStudio\yinyangshiWinform\common\bin\Debug\common.pdb
+G:\VisualStudio\yinyangshiWinform\common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+G:\VisualStudio\yinyangshiWinform\common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+G:\VisualStudio\yinyangshiWinform\common\obj\Debug\common.dll
+G:\VisualStudio\yinyangshiWinform\common\obj\Debug\common.pdb

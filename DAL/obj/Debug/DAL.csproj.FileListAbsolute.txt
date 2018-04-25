@@ -1,0 +1,9 @@
+G:\VisualStudio\yinyangshiWinform\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+G:\VisualStudio\yinyangshiWinform\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+G:\VisualStudio\yinyangshiWinform\DAL\bin\Debug\DAL.dll
+G:\VisualStudio\yinyangshiWinform\DAL\bin\Debug\DAL.pdb
+G:\VisualStudio\yinyangshiWinform\DAL\bin\Debug\model.dll
+G:\VisualStudio\yinyangshiWinform\DAL\bin\Debug\model.pdb
+G:\VisualStudio\yinyangshiWinform\DAL\obj\Debug\DAL.csproj.CopyComplete
+G:\VisualStudio\yinyangshiWinform\DAL\obj\Debug\DAL.dll
+G:\VisualStudio\yinyangshiWinform\DAL\obj\Debug\DAL.pdb
